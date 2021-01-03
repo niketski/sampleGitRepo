@@ -2,5 +2,6 @@
 
     alert('hello world!');
 
+    console.log('log');
 
 })();
